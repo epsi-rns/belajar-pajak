@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="4-KUP-sengketa-25(1).svg"
+   inkscape:export-filename="/media/Works/Dropbox/2019 - Brevet/Fase Perpajakan/4-KUP-sengketa-25(1).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs4">
+    <linearGradient
+       x1="800.87"
+       y1="308.78"
+       x2="793.51001"
+       gradientUnits="userSpaceOnUse"
+       y2="309.13"
+       id="grad_dp_006">
+      <stop
+         id="stop3084"
+         offset="0"
+         stop-color="white" />
+      <stop
+         id="stop3086"
+         offset="1"
+         stop-color="#7f7f7f" />
+    </linearGradient>
+    <linearGradient
+       x1="69.375999"
+       y1="422.76001"
+       x2="1065.5"
+       gradientUnits="userSpaceOnUse"
+       y2="449.73999"
+       id="grad_dp_005">
+      <stop
+         id="stop3057"
+         offset="0"
+         stop-color="#272525" />
+      <stop
+         id="stop3059"
+         offset=".11"
+         stop-color="black" />
+      <stop
+         id="stop3061"
+         offset=".1881"
+         stop-color="#1e1e1e" />
+      <stop
+         id="stop3063"
+         offset=".28"
+         stop-color="black" />
+      <stop
+         id="stop3065"
+         offset=".3495"
+         stop-color="#272525" />
+      <stop
+         id="stop3067"
+         offset=".44"
+         stop-color="black" />
+      <stop
+         id="stop3069"
+         offset=".4994"
+         stop-color="#272525" />
+      <stop
+         id="stop3071"
+         offset=".59"
+         stop-color="black" />
+      <stop
+         id="stop3073"
+         offset=".6407"
+         stop-color="#272525" />
+      <stop
+         id="stop3075"
+         offset=".7316"
+         stop-color="#272525" />
+      <stop
+         id="stop3077"
+         offset=".82"
+         stop-color="black" />
+      <stop
+         id="stop3079"
+         offset=".8702"
+         stop-color="#272525" />
+      <stop
+         id="stop3081"
+         offset="1"
+         stop-color="black" />
+    </linearGradient>
+    <linearGradient
+       x1="450.04001"
+       y1="466.44"
+       x2="450.07999"
+       gradientUnits="userSpaceOnUse"
+       y2="477.48999"
+       id="grad_dp_004">
+      <stop
+         id="stop3048"
+         offset="0"
+         stop-color="white" />
+      <stop
+         id="stop3050"
+         offset=".3709"
+         stop-color="#137feb" />
+      <stop
+         id="stop3052"
+         offset=".6248"
+         stop-color="white" />
+      <stop
+         id="stop3054"
+         offset="1"
+         stop-color="#137feb" />
+    </linearGradient>
+    <linearGradient
+       x1="92.934998"
+       y1="463.75"
+       x2="1063.8"
+       gradientUnits="userSpaceOnUse"
+       y2="460.35999"
+       id="grad_dp_003">
+      <stop
+         id="stop3021"
+         offset="0"
+         stop-color="#b30000" />
+      <stop
+         id="stop3023"
+         offset=".1094"
+         stop-color="#a70000" />
+      <stop
+         id="stop3025"
+         offset=".1903"
+         stop-color="#a70000" />
+      <stop
+         id="stop3027"
+         offset=".2794"
+         stop-color="#b30000" />
+      <stop
+         id="stop3029"
+         offset=".3498"
+         stop-color="#a70000" />
+      <stop
+         id="stop3031"
+         offset=".4407"
+         stop-color="#712121" />
+      <stop
+         id="stop3033"
+         offset=".5004"
+         stop-color="#a70000" />
+      <stop
+         id="stop3035"
+         offset=".5897"
+         stop-color="#712121" />
+      <stop
+         id="stop3037"
+         offset=".6399"
+         stop-color="#a70000" />
+      <stop
+         id="stop3039"
+         offset=".7293"
+         stop-color="#712626" />
+      <stop
+         id="stop3041"
+         offset=".8204"
+         stop-color="#a70000" />
+      <stop
+         id="stop3043"
+         offset=".8701"
+         stop-color="#7e2929" />
+      <stop
+         id="stop3045"
+         offset="1"
+         stop-color="#670000" />
+    </linearGradient>
+    <linearGradient
+       x1="833.12"
+       y1="304.66"
+       x2="843.69"
+       gradientUnits="userSpaceOnUse"
+       y2="304.62"
+       id="grad_dp_002">
+      <stop
+         id="stop3014"
+         offset="0"
+         stop-color="#272525" />
+      <stop
+         id="stop3016"
+         offset=".4837"
+         stop-color="#8e5923" />
+      <stop
+         id="stop3018"
+         offset="1"
+         stop-color="white" />
+    </linearGradient>
+    <linearGradient
+       x1="569"
+       y1="333.06"
+       x2="569.35999"
+       gradientUnits="userSpaceOnUse"
+       y2="436"
+       id="grad_dp_001">
+      <stop
+         id="stop3009"
+         offset="0"
+         stop-color="#5b5b5b" />
+      <stop
+         id="stop3011"
+         offset="1"
+         stop-color="black" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.195"
+     inkscape:cx="88.149715"
+     inkscape:cy="283.2636"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4050"
+     showgrid="false"
+     inkscape:window-width="1900"
+     inkscape:window-height="981"
+     inkscape:window-x="10"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36217)">
+    <g
+       id="g4050">
+      <rect
+         y="453.66785"
+         x="1.3056763"
+         height="597.38867"
+         width="797.38867"
+         id="rect3295"
+         style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.61135268;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fbeeab;stroke-width:0.08843512;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5455"
+         width="41.160294"
+         height="319.91156"
+         x="47.54982"
+         y="704.90637"
+         rx="1.8718197"
+         ry="37.548088" />
+      <rect
+         ry="37.504738"
+         rx="34.529301"
+         y="703.72534"
+         x="11.991662"
+         height="319.28027"
+         width="759.28027"
+         id="rect3244"
+         style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffff29;stroke-width:0.71972555;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0312055,0.96973881)"
+         id="text3526"
+         y="577.84064"
+         x="72.7304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Capture it';-inkscape-font-specification:'Capture it';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#373e4d;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.11872864px;line-height:125%;font-family:'Capture it';-inkscape-font-specification:'Capture it';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373e4d;fill-opacity:1"
+           id="tspan3530"
+           y="577.84064"
+           x="72.7304"
+           sodipodi:role="line"><tspan
+             id="tspan4313"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.08200836px;line-height:125%;font-family:'Capture it';-inkscape-font-specification:'Capture it';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffeb3b;fill-opacity:1"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:'Capture it';-inkscape-font-specification:'Capture it, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffeb3b"
+               id="tspan93"><tspan
+   style="fill:#ffffff"
+   id="tspan84">FASE</tspan> SENGKETA</tspan></tspan></tspan></text>
+      <text
+         transform="scale(0.99130015,1.0087762)"
+         id="text3217"
+         y="590.38733"
+         x="73.361343"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bd5e35;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3221"
+           y="590.38733"
+           x="73.361343"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan
+             id="tspan4013"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">UU No 6/1983 tentang </tspan><tspan
+             id="tspan4339"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffa629;fill-opacity:1"><tspan
+               style="fill:#ffeb3b"
+               id="tspan105">KUP</tspan></tspan></tspan></text>
+      <text
+         id="text3225"
+         y="783.5741"
+         x="99.938477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="783.5741"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan116">Wajib Pajak dapat<tspan
+   style="fill:#ffeb3b"
+   id="tspan152"> mengajukan keberatan</tspan></tspan><tspan
+           y="806.0741"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan97"><tspan
+             style="fill:#ffffff"
+             id="tspan154">hanya </tspan><tspan
+             style="fill:#ffeb3b"
+             id="tspan156"><tspan
+   style="fill:#9e9e9e"
+   id="tspan115">kepada</tspan> Direktur Jenderal Pajak</tspan></tspan><tspan
+           y="828.5741"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan109">atas suatu:</tspan><tspan
+           y="838.16956"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan100" /></text>
+      <text
+         id="text3243"
+         y="738.29993"
+         x="99.106575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#89ad57;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3247"
+           y="738.29993"
+           x="99.106575"
+           sodipodi:role="line"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif;fill:#ffffff">Pasal 25</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#89ad57;fill-opacity:1;stroke:none"
+         x="55.360001"
+         y="783.5741"
+         id="text4081"><tspan
+           y="783.5741"
+           x="55.360001"
+           id="tspan4097"
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#ffffff">(1)</tspan></text>
+      <rect
+         y="603.71094"
+         x="55.09877"
+         height="3.5524557"
+         width="562.30249"
+         id="rect4173"
+         style="opacity:0.2;fill:#89ad57;fill-opacity:1;fill-rule:nonzero;stroke:#fbeeab;stroke-width:0.19754431;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffeb3b;fill-opacity:1;stroke:none"
+         x="74.064468"
+         y="627.32764"
+         id="text103"
+         transform="scale(0.99130015,1.0087762)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffeb3b"
+           sodipodi:role="line"
+           x="74.064468"
+           y="627.32764"
+           id="tspan101"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffeb3b;fill-opacity:1"
+             id="tspan99">Ketentuan Umum dan Tata Cara Perpajakan  </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         x="99.938477"
+         y="858.5741"
+         id="text108"><tspan
+           id="tspan106"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           x="99.938477"
+           y="858.5741">a.</tspan></text>
+      <text
+         id="text114"
+         y="858.5741"
+         x="124.93848"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="858.5741"
+           x="124.93848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan121">Surat Ketetapan Pajak Kurang Bayar;</tspan></text>
+      <text
+         id="text119"
+         y="883.5741"
+         x="99.938477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="883.5741"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan117">b.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         x="124.93848"
+         y="883.5741"
+         id="text124"><tspan
+           id="tspan122"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           x="124.93848"
+           y="883.5741">Surat Ketetapan Pajak Kurang Bayar Tambahan;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         x="99.938477"
+         y="908.5741"
+         id="text128"><tspan
+           id="tspan126"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           x="99.938477"
+           y="908.5741">c.</tspan></text>
+      <text
+         id="text132"
+         y="908.5741"
+         x="124.93848"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="908.5741"
+           x="124.93848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan130">Surat Ketetapan Pajak Nihil;</tspan></text>
+      <text
+         id="text136"
+         y="933.5741"
+         x="99.938477"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="933.5741"
+           x="99.938477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan134">d.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         x="124.93848"
+         y="933.5741"
+         id="text140"><tspan
+           id="tspan138"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           x="124.93848"
+           y="933.5741">Surat Ketetapan Pajak Lebih Bayar; atau</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         x="99.938477"
+         y="958.5741"
+         id="text144"><tspan
+           id="tspan142"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           x="99.938477"
+           y="958.5741">e.</tspan></text>
+      <text
+         id="text148"
+         y="958.5741"
+         x="124.93848"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="958.5741"
+           x="124.93848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan146">pemotongan atau pemungutan pajak <tspan
+   style="fill:#ffeb3b"
+   id="tspan158">oleh pihak ketiga</tspan></tspan><tspan
+           y="981.0741"
+           x="124.93848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan150">berdasarkan ketentuan peraturan perundang-undangan perpajakan.</tspan></text>
+      <text
+         id="text162"
+         y="858.5741"
+         x="599.93842"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="858.5741"
+           x="599.93842"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan160">SKPKB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1;stroke:none"
+         x="599.93842"
+         y="883.5741"
+         id="text166"><tspan
+           id="tspan164"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1"
+           x="599.93842"
+           y="883.5741">SKPKBT</tspan></text>
+      <text
+         id="text170"
+         y="908.5741"
+         x="599.93842"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="908.5741"
+           x="599.93842"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan168">SKPN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1;stroke:none"
+         x="599.93842"
+         y="933.5741"
+         id="text174"><tspan
+           id="tspan172"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#64b5f6;fill-opacity:1"
+           x="599.93842"
+           y="933.5741">SKPLB</tspan></text>
+      <text
+         transform="scale(0.99130015,1.0087762)"
+         id="text89"
+         y="652.11011"
+         x="75.158234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan87"
+           y="652.11011"
+           x="75.158234"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e">sebagaimana telah beberapa kali diubah</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none"
+         x="75.335297"
+         y="676.89264"
+         id="text97"
+         transform="scale(0.99130015,1.0087762)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e"
+           sodipodi:role="line"
+           x="75.335297"
+           y="676.89264"
+           id="tspan95">terakhir dengan UU No 16/2009</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e"
+           sodipodi:role="line"
+           x="75.335297"
+           y="687.65228"
+           id="tspan100-5" /></text>
+    </g>
+  </g>
+</svg>
