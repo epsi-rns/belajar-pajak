@@ -88,4 +88,36 @@ Perubahan Keempat
 * Undang-Undang Nomor 36 Tahun 2008
 * https://jdih.setneg.go.id/downloadFile/P14750@UU%2036%20Tahun%202008.pdf
 
+-- -- --
 
+Prolegnas 2019
+
+http://www.dpr.go.id/uu/prolegnas
+
+18. RUU Tentang Konsultan Pajak
+20. RUU tentang Perubahan Kelima Atas UU Nomor 6 Tahun 1983 tentang Ketentuan Umum Dan Tata Cara Perpajakan
+
+RUU KUP
+* 129 Pasal: http://www.dpr.go.id/doksileg/proses2/RJ2-20161125-014008-5215.PDF
+
+Prolegnas 2018
+
+27. RUU Tentang Konsultan Pajak
+
+Prolegnas 2017
+
+52. RUU Tentang Konsultan Pajak
+
+Prolegnas 2016
+
+17. RUU tentang Perubahan Kelima Atas UU Nomor 6 Tahun 1983 tentang Ketentuan Umum Dan Tata Cara Perpajakan
+
+Prolegnas 2015
+
+40. RUU tentang Pengampunan Pajak
+
+http://www.dpr.go.id/uu/prolegnas-long-list
+
+141. RUU tentang Pajak Penghasilan
+
+158. RUU tentang Pajak Pertambahan Nilai dan Pajak Penjualan Barang Mewah
