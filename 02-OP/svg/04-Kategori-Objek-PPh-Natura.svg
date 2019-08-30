@@ -2205,7 +2205,7 @@
      inkscape:cx="450"
      inkscape:cy="360"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1900"
      inkscape:window-height="981"
@@ -2383,28 +2383,9 @@
      id="layer3"
      inkscape:label="content"
      style="display:inline"
-     transform="translate(0,-80)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="guidance"
-     style="display:none">
-    <rect
-       transform="translate(0,-80)"
-       style="display:inline;opacity:1;fill:#0d47a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61100006;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5736"
-       width="799.99994"
-       height="20"
-       x="50"
-       y="780" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="header"
      transform="translate(0,-80)">
     <rect
-       style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.6379999, 7.6379999;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.6379999, 7.63799989999999962;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5014"
        width="300"
        height="90"
@@ -2431,7 +2412,7 @@
        id="text1783"
        y="375.51041"
        x="249.58594"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan1337">Diberikan oleh</tspan></text>
@@ -2456,6 +2437,195 @@
          id="tspan1343"
          x="649.92188"
          y="392.177">oleh selain</tspan></text>
+    <path
+       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999877;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1421)"
+       d="m 240,515 v 20 h -5 l 15,10 15,-10 h -5 v -20 z"
+       id="rect1848"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2225)"
+       d="m 420,265 v 20 l -180,10 v 10 20 h -5 l 15,10 15,-10 h -5 v -20 l 180,-10 v -10 -20 z"
+       id="rect2129"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2237)"
+       d="m 460,265 v 20 10 l 180,10 v 20 h -5 l 15,10 15,-10 h -5 V 305 295 L 480,285 v -20 z"
+       id="path2141"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="550"
+       x="200"
+       height="60"
+       width="100"
+       id="rect1185"
+       style="opacity:1;fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.63799999999999990;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1409)" />
+    <text
+       id="text1189"
+       y="589.72955"
+       x="249.81316"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan1397">Objek PPh</tspan></text>
+    <text
+       id="text1311"
+       y="214.67403"
+       x="449.92184"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan1333"
+         x="449.92184"
+         y="214.67403">Fasilitas/ Kemudahan/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="449.92184"
+       y="239.67403"
+       id="text1325"><tspan
+         sodipodi:role="line"
+         id="tspan1335"
+         x="449.92184"
+         y="239.67403">BIK (Benefit in Kind)</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800008, 7.63800008000000030;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1345"
+       width="200"
+       height="100"
+       x="150"
+       y="400.00003" />
+    <text
+       id="text1378"
+       y="425.63245"
+       x="194.42569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan1391"
+         x="194.42569"
+         y="425.63245">Bukan WP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.42569"
+       y="450.63281"
+       id="text1384"><tspan
+         sodipodi:role="line"
+         id="tspan1393"
+         x="194.42569"
+         y="450.63281">WP Final</tspan></text>
+    <text
+       id="text1388"
+       y="476.63281"
+       x="194.42569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan1395"
+         x="194.42569"
+         y="476.63281">WP Deemed Profit</tspan></text>
+    <g
+       style=""
+       id="g1383"
+       transform="translate(-350,-91.1488)">
+      <circle
+         r="7.5"
+         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1379"
+         cx="527.5"
+         cy="512.5" />
+      <circle
+         r="5"
+         cy="512.5"
+         cx="527.5"
+         id="circle1381"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style=""
+       transform="translate(-350,-66.1488)"
+       id="g1416">
+      <circle
+         cy="512.5"
+         cx="527.5"
+         id="circle1412"
+         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
+         r="7.5" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1414"
+         cx="527.5"
+         cy="512.5"
+         r="5" />
+    </g>
+    <g
+       style=""
+       id="g1422"
+       transform="translate(-350,-41.14881)">
+      <circle
+         r="7.5"
+         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1418"
+         cx="527.5"
+         cy="512.5" />
+      <circle
+         r="5"
+         cy="512.5"
+         cx="527.5"
+         id="circle1420"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1423"
+       d="m 640,515 v 20 h -5 l 15,10 15,-10 h -5 v -20 z"
+       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1421)" />
+    <rect
+       style="opacity:1;fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.63799999999999990;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1445)"
+       id="rect1425"
+       width="100"
+       height="60"
+       x="600"
+       y="550" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="649.81317"
+       y="574.72931"
+       id="text1429"><tspan
+         sodipodi:role="line"
+         id="tspan1431"
+         x="649.81317"
+         y="574.72931">Bukan</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1433"
+         x="649.81317"
+         y="598.06262">Objek PPh</tspan></text>
+    <path
+       style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63799996, 7.63799996000000014;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1531)"
+       d="M 645 325 L 645 355 C 614.99999 385 645 355 615 385 L 515 385 L 515 380 L 505 395 L 515 410 L 515 405 L 615 405 L 630 405 L 665 370 L 665 355 L 665 325 L 645 325 z "
+       id="path1449"
+       transform="translate(0,80)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="guidance"
+     style="display:none">
+    <rect
+       transform="translate(0,-80)"
+       style="display:inline;opacity:1;fill:#0d47a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61100006;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5736"
+       width="799.99994"
+       height="20"
+       x="50"
+       y="780" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="header"
+     transform="translate(0,-80)">
     <rect
        style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.638;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1448)"
        id="rect1807"
@@ -2484,11 +2654,6 @@
        width="100"
        id="rect1813"
        style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.638;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1460)" />
-    <path
-       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1421)"
-       d="m 240,515 v 20 h -5 l 15,10 15,-10 h -5 v -20 z"
-       id="rect1848"
-       inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800002, 7.63800002;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1853"
@@ -2521,16 +2686,6 @@
        id="path1320"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
-    <path
-       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2225)"
-       d="m 420,265 v 20 l -180,10 v 10 20 h -5 l 15,10 15,-10 h -5 v -20 l 180,-10 v -10 -20 z"
-       id="rect2129"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2237)"
-       d="m 460,265 v 20 10 l 180,10 v 20 h -5 l 15,10 15,-10 h -5 V 305 295 L 480,285 v -20 z"
-       id="path2141"
-       inkscape:connector-curvature="0" />
     <g
        style="fill:#ffeb3b"
        id="g2193"
@@ -2595,21 +2750,6 @@
          id="tspan1308"
          x="1319.9427"
          y="487.51041">Final</tspan></text>
-    <rect
-       y="550"
-       x="200"
-       height="60"
-       width="100"
-       id="rect1185"
-       style="opacity:1;fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.63799999999999990;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1409)" />
-    <text
-       id="text1189"
-       y="589.72955"
-       x="249.81316"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1397">Objek PPh</tspan></text>
     <rect
        style="opacity:1;fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.638;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1472)"
        id="rect1191"
@@ -2721,142 +2861,6 @@
          id="tspan1370"
          x="1649.7864"
          y="599.72961">(no tax)</tspan></text>
-    <text
-       id="text1311"
-       y="214.67403"
-       x="449.92184"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1333"
-         x="449.92184"
-         y="214.67403">Fasilitas/ Kemudahan/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="449.92184"
-       y="239.67403"
-       id="text1325"><tspan
-         sodipodi:role="line"
-         id="tspan1335"
-         x="449.92184"
-         y="239.67403">BIK (Benefit in Kind)</tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800008, 7.63800008000000030;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1345"
-       width="200"
-       height="100"
-       x="150"
-       y="400.00003" />
-    <text
-       id="text1378"
-       y="425.63245"
-       x="194.42569"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1391"
-         x="194.42569"
-         y="425.63245">Bukan WP</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.42569"
-       y="450.63281"
-       id="text1384"><tspan
-         sodipodi:role="line"
-         id="tspan1393"
-         x="194.42569"
-         y="450.63281">WP Final</tspan></text>
-    <text
-       id="text1388"
-       y="476.63281"
-       x="194.42569"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1395"
-         x="194.42569"
-         y="476.63281">WP Deemed Profit</tspan></text>
-    <g
-       id="g1383"
-       transform="translate(-350,-91.148804)">
-      <circle
-         r="7.5"
-         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1379"
-         cx="527.5"
-         cy="512.5" />
-      <circle
-         r="5"
-         cy="512.5"
-         cx="527.5"
-         id="circle1381"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(-350,-66.148804)"
-       id="g1416">
-      <circle
-         cy="512.5"
-         cx="527.5"
-         id="circle1412"
-         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
-         r="7.5" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1414"
-         cx="527.5"
-         cy="512.5"
-         r="5" />
-    </g>
-    <g
-       id="g1422"
-       transform="translate(-350,-41.148805)">
-      <circle
-         r="7.5"
-         style="opacity:1;fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800003999999966;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1418"
-         cx="527.5"
-         cy="512.5" />
-      <circle
-         r="5"
-         cy="512.5"
-         cx="527.5"
-         id="circle1420"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1423"
-       d="m 640,515 v 20 h -5 l 15,10 15,-10 h -5 v -20 z"
-       style="opacity:1;fill:#ffeb3b;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63800004, 7.63800004;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1421)" />
-    <rect
-       style="opacity:1;fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.638, 7.63799999999999990;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1445)"
-       id="rect1425"
-       width="100"
-       height="60"
-       x="600"
-       y="550" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="649.81317"
-       y="574.72931"
-       id="text1429"><tspan
-         sodipodi:role="line"
-         id="tspan1431"
-         x="649.81317"
-         y="574.72931">Bukan</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1433"
-         x="649.81317"
-         y="598.06262">Objek PPh</tspan></text>
-    <path
-       style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:1.273;stroke-miterlimit:4;stroke-dasharray:7.63799996, 7.63799996000000014;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1531)"
-       d="M 645 325 L 645 355 C 614.99999 385 645 355 615 385 L 515 385 L 515 380 L 505 395 L 515 410 L 515 405 L 615 405 L 630 405 L 665 370 L 665 355 L 665 325 L 645 325 z "
-       id="path1449"
-       transform="translate(0,80)" />
     <g
        id="g1518"
        transform="translate(0,-1000)">
